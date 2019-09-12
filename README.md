@@ -1,5 +1,5 @@
 # CheatSheets
 All of the coding/programming cheatsheets I've collected
 
-# Contents:
+Contents:
 - Setup Github on Visual Studio Code
